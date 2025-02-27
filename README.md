@@ -8,27 +8,17 @@ Atualmente, estou aprimorando minhas habilidades em **back-end e front-end**, ex
 ## 🌍 Onde me encontrar?  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianca-laurentino-3aa774277/)  
-📩 **E-mail:** ianca@email.com  
+📩 **E-mail:** iancalaurentino@gmail.com
 
 ---
 
 ## 🛠️ Tecnologias que estou aprendendo:  
 
-- 🚀 **Back-end:** Python, Django, FastAPI  
-- 🎨 **Front-end:** HTML, CSS, JavaScript, React  
-- 🗄️ **Banco de Dados:** PostgreSQL, MySQL  
-- 🔧 **Ferramentas:** Git, GitHub, Docker  
+- 🚀 **Back-end:** Python, Django  
+- 🎨 **Front-end:** HTML, CSS, JavaScript  
+- 🔧 **Ferramentas:** Git, GitHub 
 
----
+### ✨ "Sempre aprendendo e evoluindo!"  😃🚀  
 
-## 📌 Projetos em andamento  
 
-🔹 **[Projeto 1 - Nome do Projeto](#)** → Breve descrição do que é esse projeto.  
-🔹 **[Projeto 2 - Nome do Projeto](#)** → Outro projeto interessante que estou desenvolvendo.  
-
----
-
-### ✨ "Sempre aprendendo e evoluindo!"  
-
-Se precisar trocar ideias ou colaborar em projetos, entre em contato! 😃🚀  
 
