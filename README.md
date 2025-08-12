@@ -37,6 +37,8 @@ Transformando linhas de código em soluções reais e com estilo!
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 > “Sempre aprendendo, errando e evoluindo! 😃🚀”
 
 
