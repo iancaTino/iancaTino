@@ -46,11 +46,8 @@ Cada desafio é uma peça que se encaixa, transformando aprendizado em projetos 
 🌸 **Minhas estatísticas no GitHub** 🌸
 
 <div align="center">
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=iancaTino&layout=compact&theme=tokyonight)  
-&nbsp;&nbsp;
-![Minhas Stats do GitHub](https://github-readme-stats.vercel.app/api?username=iancaTino&show_icons=true&theme=tokyonight)
-
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=iancaTino&layout=compact&theme=react)  
+![Minhas Stats do GitHub](https://github-readme-stats.vercel.app/api?username=iancaTino&show_icons=true&theme=react)
 </div>
 
 ---
