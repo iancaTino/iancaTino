@@ -40,8 +40,6 @@ Cada desafio é uma peça que se encaixa, transformando aprendizado em projetos 
 &nbsp;&nbsp;
 [![E-mail](https://img.shields.io/badge/-E-mail-FF6F91?style=for-the-badge&logo=mail&logoColor=white)](mailto:iancalaurentino@gmail.com)
 
-
-
 </div>
 
 ---
