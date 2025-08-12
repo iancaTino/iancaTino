@@ -5,7 +5,7 @@ Adoro transformar linhas de código em soluções lindas e cheias de estilo.
 
 ---
 
-## 🚀 Tecnologias que tô aprendendo com muito carinho
+## 🚀 Tecnologias que tô aprendendo
 
 | Tecnologia  | Nível             |
 |-------------|-------------------|
@@ -31,13 +31,18 @@ Adoro transformar linhas de código em soluções lindas e cheias de estilo.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF6F91?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ianca)  
 [![Telegram](https://img.shields.io/badge/-Telegram-FF9671?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ianca)  
-📧 E-mail: [iancalaurentino@gmail.com](mailto:iancalaurentino@gmail.com)
-
+[![E-mail](https://img.shields.io/badge/-E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iancalaurentino@gmail.com)
 
 ---
+🌸 **Minhas estatísticas no GitHub** 🌸
+
+<div align="center">
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=iancaTino&layout=compact&theme=tokyonight)  
+&nbsp;&nbsp;
 ![Minhas Stats do GitHub](https://github-readme-stats.vercel.app/api?username=iancaTino&show_icons=true&theme=tokyonight)
+
+</div>
 
 ---
 
