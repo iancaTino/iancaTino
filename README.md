@@ -52,5 +52,5 @@ Cada desafio é uma peça que se encaixa, transformando aprendizado em projetos 
 
 > “Sempre aprendendo, errando e evoluindo! 💖✨”
 >
-> ![Bunny](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+<img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy-downsized-small.gif" width="50" />
 
