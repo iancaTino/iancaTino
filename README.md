@@ -1,26 +1,44 @@
-# 👋 Olá, meu nome é Ianca!  
+# 👋 Ei, eu sou a Ianca!
 
-Sou estudante de **Desenvolvimento Full Stack Python** e apaixonada por tecnologia. 🚀  
-Atualmente, estou aprimorando minhas habilidades em **back-end e front-end**, explorando frameworks modernos e boas práticas de desenvolvimento.  
-
----
-
-## 🌍 Onde me encontrar?  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianca-laurentino-3aa774277/)  
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iancaTino)
-
-📩 **E-mail:** iancalaurentino@gmail.com
+Estudante Full Stack Python, exploradora de códigos, apaixonada por tecnologia e café ☕💻  
+Transformando linhas de código em soluções reais e com estilo!
 
 ---
 
-## 🛠️ Tecnologias que estou aprendendo:  
+## 🚀 Tecnologias que tô mandando ver
 
-- 🚀 **Back-end:** Python, Django  
-- 🎨 **Front-end:** HTML, CSS, JavaScript  
-- 🔧 **Ferramentas:** Git, GitHub 
+| Tecnologia  | Nível           | Barra de Progresso            |
+|-------------|-----------------|------------------------------|
+| Python      | Intermediário 🟩🟩🟩⬜⬜ | ███████░░░ 60%               |
+| HTML5       | Avançado 🟩🟩🟩🟩🟩 | ██████████ 100%               |
+| CSS3        | Intermediário 🟩🟩🟩🟩⬜ | ████████░░ 80%               |
+| JavaScript  | Intermediário 🟩🟩🟩🟩⬜ | ████████░░ 80%               |
+| Git         | Intermediário 🟩🟩🟩🟩⬜ | ████████░░ 80%               |
 
-### ✨ "Sempre aprendendo e evoluindo!"  😃🚀  
+---
+
+## 🔥 Ferramentas e tecnologias favoritas
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🌍 Onde me encontrar?
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ianca)  
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ianca)  
+
+📧 E-mail: iancalaurentino@gmail.com
+
+---
+
+> “Sempre aprendendo, errando e evoluindo! 😃🚀”
+
 
 
 
