@@ -1,7 +1,7 @@
 # 🌸 Oi, eu sou a Ianca! 🌸
 
-Estudante Full Stack Python, apaixonada por tecnologia, café ☕ e tudo que deixa a vida mais doce! 💻✨  
-Adoro transformar linhas de código em soluções lindas e cheias de estilo.
+Estudante Full Stack Python, explorando códigos como quem monta um quebra-cabeça gigante.
+Cada desafio é uma peça que se encaixa, transformando aprendizado em projetos com estilo e personalidade.
 
 ---
 
@@ -28,10 +28,13 @@ Adoro transformar linhas de código em soluções lindas e cheias de estilo.
 ---
 
 ## 🌷 Onde me encontrar?
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF6F91?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ianca)  
 [![Telegram](https://img.shields.io/badge/-Telegram-FF9671?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ianca)  
 [![E-mail](https://img.shields.io/badge/-E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iancalaurentino@gmail.com)
+
+</div>
 
 ---
 🌸 **Minhas estatísticas no GitHub** 🌸
