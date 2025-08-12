@@ -38,7 +38,8 @@ Cada desafio é uma peça que se encaixa, transformando aprendizado em projetos 
 &nbsp;&nbsp;
 [![Telegram](https://img.shields.io/badge/-Telegram-FF9671?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ianca)
 &nbsp;&nbsp;
-[![E-mail](https://img.shields.io/badge/-E-mail-FF6F91?style=for-the-badge&logo=google&logoColor=white)](mailto:iancalaurentino@gmail.com)
+[![E-mail](https://img.shields.io/badge/-E-mail-FF6F91?style=for-the-badge&logo=mail&logoColor=white)](mailto:iancalaurentino@gmail.com)
+
 
 
 </div>
