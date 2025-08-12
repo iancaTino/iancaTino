@@ -19,20 +19,26 @@ Cada desafio é uma peça que se encaixa, transformando aprendizado em projetos 
 
 ## 🎀 Minhas ferramentas favoritas
 
-![HTML5](https://img.shields.io/badge/-HTML5-FF6F91?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-FF9671?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFC75F?style=for-the-badge&logo=javascript&logoColor=black)  
-![Git](https://img.shields.io/badge/-Git-F9F871?style=for-the-badge&logo=git&logoColor=black)  
-![GitHub](https://img.shields.io/badge/-GitHub-C7CEEA?style=for-the-badge&logo=github&logoColor=black)  
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/-HTML5-FF6F91?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-FF9671?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFC75F?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-F9F871?style=for-the-badge&logo=git&logoColor=black)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-C7CEEA?style=for-the-badge&logo=github&logoColor=black)
+
+</div>
 
 ---
 
 ## 🌷 Onde me encontrar?
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF6F91?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ianca)  
-[![Telegram](https://img.shields.io/badge/-Telegram-FF9671?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ianca)  
-[![E-mail](https://img.shields.io/badge/-E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iancalaurentino@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF6F91?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ianca)
+&nbsp;&nbsp;
+[![Telegram](https://img.shields.io/badge/-Telegram-FF9671?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ianca)
+&nbsp;&nbsp;
+[![E-mail](https://img.shields.io/badge/-E-mail-FF6F91?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iancalaurentino@gmail.com)
 
 </div>
 
