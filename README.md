@@ -7,15 +7,7 @@ Transformando linhas de código em soluções reais e com estilo!
 
 ## 🚀 Tecnologias que tô mandando ver
 
-| Tecnologia  | Nível           | Barra de Progresso            |
-|-------------|-----------------|------------------------------|
-| Python      | Intermediário 🟩🟩🟩⬜⬜ | ███████░░░ 60%               |
-| HTML5       | Avançado 🟩🟩🟩🟩🟩 | ██████████ 100%               |
-| CSS3        | Intermediário 🟩🟩🟩🟩⬜ | ████████░░ 80%               |
-| JavaScript  | Intermediário 🟩🟩🟩🟩⬜ | ████████░░ 80%               |
-| Git         | Intermediário 🟩🟩🟩🟩⬜ | ████████░░ 80%               |
 
----
 
 ## 🔥 Ferramentas e tecnologias favoritas
 
@@ -37,7 +29,8 @@ Transformando linhas de código em soluções reais e com estilo!
 ---
 
 ![Ianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=iancaTino&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iancaTino&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iancaTino&layout=compact&theme=radical)
+
 
 
 > “Sempre aprendendo, errando e evoluindo! 😃🚀”
