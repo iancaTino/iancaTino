@@ -34,10 +34,9 @@ Cada desafio é uma peça que se encaixa, transformando aprendizado em projetos 
 ## 🌷 Onde me encontrar?
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF6F91?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ianca)
-&nbsp;&nbsp;
-[![Telegram](https://img.shields.io/badge/-Telegram-FF9671?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ianca)
-&nbsp;&nbsp;
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianca-laurentino-3aa774277/)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iancaTino)
 [![E-mail](https://img.shields.io/badge/E-mail-FF6F91?style=flat-square&logo=gmail&logoColor=white)](mailto:iancalaurentino@gmail.com)
 
 </div>
