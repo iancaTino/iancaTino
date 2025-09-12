@@ -35,7 +35,6 @@ Cada desafio é uma peça que se encaixa, transformando aprendizado em projetos 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianca-laurentino-3aa774277/)
-[![Telegram](https://img.shields.io/badge/-Telegram-FF69B4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iancaTino)
 [![E-mail](https://img.shields.io/badge/E-mail-FF6F91?style=flat-square&logo=gmail&logoColor=white)](mailto:iancalaurentino@gmail.com)
 
 </div>
