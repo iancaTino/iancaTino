@@ -49,5 +49,8 @@ Cada desafio é uma peça que se encaixa, transformando aprendizado em projetos 
 ---
 
 > “Sempre aprendendo, errando e evoluindo! 💖✨”
+>
+> ![Fun Coding](https://img.shields.io/badge/-Fun%20Coding-%23FFC0CB?style=for-the-badge)
+
 
 
