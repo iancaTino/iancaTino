@@ -35,15 +35,13 @@ Cada desafio é uma peça que se encaixa, transformando aprendizado em projetos 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-E9B6FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianca-laurentino-3aa774277/)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-F7A8E0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianca-laurentino-3aa774277/)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-F7A8E0?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511988501416)
-
-[![Email](https://img.shields.io/badge/Email-F3C4FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iancalaurentino@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/-Portfólio-F9B9FF?style=for-the-badge&logo=sparkles&logoColor=white)](https://ianca-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-F7A8E0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iancalaurentino@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfólio-F7A8E0?style=for-the-badge&logo=sparkles&logoColor=white)](https://ianca-portfolio.vercel.app/)
 
 </div>
+
 
 ---
 🌸 **Minhas estatísticas no GitHub** 🌸
