@@ -35,10 +35,13 @@ Cada desafio é uma peça que se encaixa, transformando aprendizado em projetos 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFE6F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianca-laurentino-3aa774277/)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-FFD9EC?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511988501416)
-[![Email](https://img.shields.io/badge/Email-FFF0F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iancalaurentino@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfólio-FFEAF5?style=for-the-badge&logo=sparkles&logoColor=white)](https://ianca-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-E9B6FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianca-laurentino-3aa774277/)
+
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-F7A8E0?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511988501416)
+
+[![Email](https://img.shields.io/badge/Email-F3C4FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iancalaurentino@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/-Portfólio-F9B9FF?style=for-the-badge&logo=sparkles&logoColor=white)](https://ianca-portfolio.vercel.app/)
 
 </div>
 
