@@ -44,16 +44,9 @@ Cada desafio é uma peça que se encaixa, transformando aprendizado em projetos 
 
 
 ---
-<h3 align="center">🌸 Minhas estatísticas no GitHub 🌸</h3>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iancaTino&layout=compact&bg_color=ffe4e6&title_color=ff69b4&text_color=db7093"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iancaTino&layout=compact&count_private=true&cache_seconds=1800"/>
 </p>
 
-<p align="center">
-  Sempre aprendendo e criando com 💖
-</p>
-
- 
 
 > “Sempre aprendendo, errando e evoluindo! 💖✨” 
