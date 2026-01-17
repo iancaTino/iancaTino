@@ -42,11 +42,6 @@ Cada desafio é uma peça que se encaixa, transformando aprendizado em projetos 
 
 </div>
 
-
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iancaTino&layout=compact&count_private=true&cache_seconds=1800"/>
-</p>
-
 
 > “Sempre aprendendo, errando e evoluindo! 💖✨” 
